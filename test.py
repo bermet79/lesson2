@@ -1,8 +1,12 @@
 
-def hello():
-    print("hello world")
+# def hello():
+#     print("hello world")
 
-hello()
+# hello()
 
 
 # git rm --cached test.py
+
+# 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
+# ldkjifjv
+# dfvkndkfgml
